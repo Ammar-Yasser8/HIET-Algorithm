@@ -70,18 +70,18 @@ A fun section that improves logic and thinking:
 HIET-Algorithm/
 │
 ├── Search-Techniques/
-│ ├── Linear-Search/
-│ ├── Binary-Search/
-│ └── HashTable/
+│   ├── Linear-Search/
+│   ├── Binary-Search/
+│   └── HashTable/
 │
 ├── Sorting/
-│ ├── Bubble-Sort/
-│ ├── Merge-Sort/
-│ └── Quick-Sort/
+│   ├── Bubble-Sort/
+│   ├── Merge-Sort/
+│   └── Quick-Sort/
 │
 ├── Recursion/
 │
-└── Pattern-Problems/   
+└── Pattern-Problems/
 
 ---
 
